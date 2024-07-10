@@ -1,0 +1,205 @@
+.blackBar{
+    background-color:#0b0b31 ;
+    color: #a9a9a9
+}
+
+.topNav a{
+    text-decoration: none;
+    color: #a9a9a9;
+}
+.logoBar{    
+    background-color: #f2f3f5;
+    
+}
+.power-words .container{
+    max-width: 1764px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.logoBar .container{
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 1560px;
+
+}
+
+.blue-part .container{
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 1756px;
+}
+
+.logo img{
+    width: -webkit-fill-available;  
+}
+
+.nav-buttons{
+    font-size: small;
+   list-style: none;
+   background-color: #f2f3f5;
+   padding-bottom: 1px;
+    padding-top: 43px;    
+}
+.nav-buttons li{
+    display: inline;   
+}
+.nav-buttons button{
+    background-color: #0b0b31;
+    color: white;
+    border-radius: 10px;  
+    font-size: x-large;    
+}
+.glassesDude{
+    background-color: #f2f3f5;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.glassesDude img{
+    width: -webkit-fill-available;
+}
+.dot-buttons{
+    text-align: center;
+    background-color: #f2f3f5;
+}
+.dot-buttons ul{
+    list-style: none;
+    align-items: center;
+    margin-bottom: 0px; 
+}
+
+.dot-buttons li{
+    display: inline;   
+}
+.dot-buttons button{
+    background-color: gray;
+    color: gray;    
+    border-radius: 10px; 
+    width: 19px;
+    display: inline-block;  
+    height: 16px;
+}
+.power-words{
+    background-color: #f2f3f5;
+    padding-bottom: 2px;
+}
+
+.power-words img{
+    width: -webkit-fill-available;
+    padding: 50px;
+}
+.power-words p{
+    color: grey;
+}
+
+.power-words .smart{
+    border: 2px solid grey; 
+}
+.power-words .strong{
+    border: 2px solid grey;
+}
+.power-words .stable{
+    border: 2px solid grey;
+}
+.blue-part{
+    background-image: linear-gradient(#1a2a3b, #0f1821);    
+    padding-bottom: 8px;
+    padding-top: 15px;
+}
+.blue-part h2{
+    color: white;
+}
+.blue-part li{
+    color: gray;
+}
+.blue-part button{
+    background-color: navy;
+    color: white;
+}
+.opportunities p{
+    color: gray;
+}
+
+.date button{    
+    width: 75px;
+    border-radius: 18px;
+}
+
+.news ul {
+    display: flex;
+    list-style: none;
+    justify-content: left;
+}
+.date{
+    flex:2;
+}
+.date h1{
+    font-size: xxx-large;
+    margin-bottom: 0px;
+}
+.text{
+    flex:10;
+}
+.text p{
+    color: white;
+    margin-bottom: 0px;
+}
+.news p{
+    color: gray;
+}
+.news b{
+    color: white;
+}
+
+.event1 button{
+    background-color: #bd8441  
+}
+.event2 button{
+    background-color: #bc6142;
+}
+
+.event3 button{
+    background-color:#bd425e;
+}
+
+.more-button button{
+    background-color: #213349;
+    color: white;
+    border-radius: 6px;
+}
+
+
+.news {
+    position: relative;
+}
+.opportunities{
+    position: relative;
+}
+.services{
+    position: relative;
+}
+.services ul{
+    margin-bottom: 4rem
+}
+.blueButton {
+    position: absolute;
+    bottom: 0;    
+}
+
+.opportunities .more-button{
+    padding-top: 30px;
+}
+.news .more-button{ 
+    padding-top: 30px;
+}
+
+.nav-buttons button{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.services ul li{
+    list-style-image: url('https://mvalenciaiii.github.io/detroix/media/gear.jpg');
+}
+
+.opportunities ul li {
+    list-style-image: url(../media/bubble.jpg);
+}
